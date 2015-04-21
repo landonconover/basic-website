@@ -1,11 +1,11 @@
 {
-  "name": "ingrainedDesigns",
+  "name": "name-here",
   "version": "1.0.0",
-  "description": "Shopping cart website for Ingrained Designs",
+  "description": "Discribing information here",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    start: "http-server ./app"
+    "start": "http-server"
   },
   "author": "Landon Conover <landon.conover@gmail.com>",
   "license": "ISC",
